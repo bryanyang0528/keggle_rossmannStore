@@ -1,0 +1,17 @@
+0	Store	q
+1	CompetitionDistance	q
+2	Promo	q
+3	Promo2	q
+4	Promo2SinceWeek	q
+5	Promo2SinceYear	q
+6	SchoolHoliday	q
+7	StoreType	q
+8	Assortment	q
+9	StateHoliday	q
+10	DayOfWeek	q
+11	month	q
+12	day	q
+13	year	q
+14	competiter	q
+15	Customers_mean	q
+16	values_mean	q
